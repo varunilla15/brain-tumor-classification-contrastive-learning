@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+data/
+outputs/
+*.keras
+*.h5
+*.ckpt
+.ipynb_checkpoints/
+.vscode/
+.DS_Store
+Thumbs.db
