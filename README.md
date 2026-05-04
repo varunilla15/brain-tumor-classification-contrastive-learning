@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/27337616/README.md)
 # A Self-Supervised Contrastive Loss Based Pre-Trained Network for Brain Image Classification
 
 Deep learning pipeline for automated brain tumor classification from CT scan images. The project combines medical image preprocessing, Otsu and Watershed segmentation, self-supervised contrastive representation learning, and a CNN classifier built with TensorFlow/Keras.
